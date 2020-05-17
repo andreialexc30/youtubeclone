@@ -1,0 +1,1 @@
+This project has been made using HTML and CSS as intended by The Odin Project. It is supposed to be a copy of a youtube web page.
