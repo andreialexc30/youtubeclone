@@ -1,1 +1,1 @@
-This project has been made using HTML and CSS as intended by The Odin Project. It is supposed to be a copy of a youtube web page.
+This project has been made using HTML and CSS as intended by The Odin Project. It is supposed to be a copy of a youtube web page. Live version available now at https://andreialexc30.github.io/youtubeclone/
